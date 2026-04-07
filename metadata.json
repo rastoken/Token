@@ -1,9 +1,19 @@
 {
-  "name": "RasTonek",
+  "name": "RasT (RasToken)",
   "symbol": "RasT",
-  "description": "RasTonek (RasT) is the native utility token for RasTask, a decentralized micro-task marketplace on Solana.",
+  "description": "RasT (RasToken) Is The Native Utility Token For RasTask A Decentralized Micro-task Marketplace On Solana For SOS Ecosystem . ",
   "image": "https://raw.githubusercontent.com/rastoken/Token/main/RasLang.jpg",
-  "attributes": [],
+  "external_url": "https://rastoken.github.io",
+  "attributes": [
+    {
+      "trait_type": "Founder",
+      "value": "Ahamed Rashid"
+    },
+    {
+      "trait_type": "GitHub",
+      "value": "ahamedrashid-me"
+    }
+  ],
   "properties": {
     "files": [
       {
@@ -11,6 +21,29 @@
         "type": "image/jpeg"
       }
     ],
-    "category": "image"
-  }
+    "category": "image",
+    "creators": [
+      {
+        "address": "BpepUJwaRz196U6LTsEs2C2GBJETG7T7Y3utJy8z3533",
+        "verified": true,
+        "share": 100
+      }
+    ],
+    "links": {
+      "website": "https://rastoken.github.io",
+      "x": "https://x.com/tokenras",
+      "github": "https://github.com/rastoken",
+      "discord": "https://discord.gg/tokenras",
+      "telegram": "https://t.me/tokenras",
+      "email": "tokenras@gmail.com"
+    }
+  },
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "BpepUJwaRz196U6LTsEs2C2GBJETG7T7Y3utJy8z3533",
+      "verified": true,
+      "share": 100
+    }
+  ]
 }
