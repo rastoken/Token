@@ -1,5 +1,5 @@
 {
-  "name": "RasT (RasToken)",
+  "name": "RasToken",
   "symbol": "RasT",
   "uri": "https://raw.githubusercontent.com/rastoken/Token/main/metadata.json",
   "seller_fee_basis_points": 0,
@@ -26,8 +26,8 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/rastoken/Token/main/RasLang.jpg",
-        "type": "image/jpeg"
+        "uri": "https://raw.githubusercontent.com/rastoken/Token/main/RasT.png",
+        "type": "image/png"
       }
     ],
     "category": "image",
