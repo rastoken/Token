@@ -1,0 +1,16 @@
+{
+  "name": "RasTonek",
+  "symbol": "RasT",
+  "description": "RasTonek (RasT) is the native utility token for RasTask, a decentralized micro-task marketplace on Solana.",
+  "image": "https://raw.githubusercontent.com/rastoken/Token/main/RasLang.jpg",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rastoken/Token/main/RasLang.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
+}
